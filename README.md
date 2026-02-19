@@ -1,4 +1,4 @@
-# Admin Dashboard – Frontend Technical Assessment
+# Admin Dashboard – Frontend 
 
 ## 🔹 Project Overview
 
