@@ -88,13 +88,13 @@ password: emilyspass
 ## 🌐 Live Deployment
 
 Deployed on **Vercel**
-👉 (Add your Vercel live link here)
+👉 
 
 ---
 
 ## 📂 GitHub Repository
 
-👉 (Add your GitHub repo link here)
+👉 https://github.com/Bhupendra0000/Admin-Dashboard
 
 ---
 
@@ -114,6 +114,4 @@ This project demonstrates:
 
 **Bhupendra**
 
----
 
-⭐ If you like this project, feel free to give it a star!
