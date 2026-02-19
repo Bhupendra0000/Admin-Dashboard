@@ -1,38 +1,119 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Admin Dashboard – Frontend Technical Assessment
 
-## Getting Started
+## 🔹 Project Overview
 
-First, run the development server:
+This project is a **modern Admin Dashboard** built using:
+
+* **Next.js (App Router)**
+* **Material UI (MUI)**
+* **Zustand (State Management)**
+* **NextAuth (Authentication)**
+* **DummyJSON REST API**
+
+It demonstrates **real-world frontend architecture**, including authentication, protected routes, API integration, and responsive UI.
+
+---
+
+## 🚀 Features
+
+### Authentication
+
+* Secure login using **NextAuth Credentials Provider**
+* Integration with **DummyJSON Auth API**
+* **JWT session handling**
+* **Protected dashboard routes**
+
+### Users Module
+
+* Users list with API data
+* Single user detail page
+* Clean responsive table UI
+
+### Products Module
+
+* Products list with API data
+* Single product detail page
+* Responsive card layout
+
+### State Management
+
+* Global state handled using **Zustand**
+* Async API calls inside stores
+* Clean and minimal boilerplate
+
+### UI & Performance
+
+* Fully responsive **Material UI** design
+* Proper **SSR hydration fix for MUI**
+* Optimized data fetching using **Next.js fetch in server components**
+* Clean folder structure and reusable components
+
+---
+
+## 🛠 Tech Stack
+
+* Next.js 16 (App Router)
+* React
+* Material UI
+* Zustand
+* NextAuth
+* DummyJSON API
+
+---
+
+## ▶️ Run Locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open in browser:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🔐 Test Login Credentials
 
-To learn more about Next.js, take a look at the following resources:
+```
+username: emilys
+password: emilyspass
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🌐 Live Deployment
 
-## Deploy on Vercel
+Deployed on **Vercel**
+👉 (Add your Vercel live link here)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# Admin-Dashboard
-# Admin-Dashboard
+## 📂 GitHub Repository
+
+👉 (Add your GitHub repo link here)
+
+---
+
+## 🧠 Learning Outcomes
+
+This project demonstrates:
+
+* Real-world **authentication flow**
+* **SSR vs Client Component** understanding
+* **State management architecture**
+* **Debugging hydration & auth issues**
+* Production-ready **Next.js project structure**
+
+---
+
+## 👨‍💻 Author
+
+**Bhupendra**
+
+---
+
+⭐ If you like this project, feel free to give it a star!
